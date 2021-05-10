@@ -1,0 +1,8 @@
+2021-05-10 21:24:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax Fehler in SQL Befehl "ID[*]"; erwartet "INSERT"
+Syntax error in SQL statement "ID[*]"; expected "INSERT"; SQL statement:
+ID [42001-200]
+2021-05-10 21:24:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax Fehler in SQL Befehl "ID[*] USER"; erwartet "INSERT"
+Syntax error in SQL statement "ID[*] USER"; expected "INSERT"; SQL statement:
+ID USER [42001-200]
